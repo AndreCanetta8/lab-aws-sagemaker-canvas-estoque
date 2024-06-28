@@ -1,0 +1,5 @@
+Boa tarde,
+
+Foram realizadas diversas tentativas para obter um novo dataset, envolvendo geração e consumo de energia elétrica. Porém, todos não foram aplicáveis para as series temporais. Por esse motivo, foi utilizado o dataset
+disponibilizado pela plataforma DIO, o data para preços promocionais.
+Após realização de todos os passos, foi verificado e constatado a importância de dados estarem bem organizados, pois a geração dos modelos de predição é mais rápida e os resultados são melhores e mais consistentes.
